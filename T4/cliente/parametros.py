@@ -1,0 +1,10 @@
+### Base juego
+TIEMPO_JUEGO = 3599
+CONSTANTE_PUNTAJE = 10
+TIEMPO_TRANSICION = 3
+## Sandias
+TIEMPO_DURACION = 5
+TIEMPO_ADICIONAL = 10
+TIEMPO_APARICION = 20 # en segundos
+# puntaje al hacer el cheat inf
+PUNTAJE_INF = 10

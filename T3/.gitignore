@@ -1,0 +1,16 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+tests_publicos/
+data/
+
+todos_test.py
+test_solution.py
+utilidades.py
+Enunciado
+__pycache__/
+
+log.md
+

@@ -1,0 +1,10 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+servidor/assets/solucion_puzzles/
+servidor/__pycache__
+BASE.md
+
+
